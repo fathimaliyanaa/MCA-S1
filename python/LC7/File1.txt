@@ -1,0 +1,4 @@
+This is a sample file
+For reading the file text
+and storing to list
+and print it
